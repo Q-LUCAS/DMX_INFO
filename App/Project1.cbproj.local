@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/19 16:33:11.000.075,=C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/19 16:33:11.000.090,=C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/11/19 16:34:40.000.198,C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\LUCAS\Desktop\DMX\App\Unit1.cpp</Transaction>
+    <Transaction>2019/11/19 16:34:40.000.892,C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\LUCAS\Desktop\DMX\App\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/19 16:34:40.000.198,C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\LUCAS\Desktop\DMX\App\Unit1.dfm</Transaction>
+    <Transaction>2019/11/19 16:34:40.000.198,C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\LUCAS\Desktop\DMX\App\Unit1.h</Transaction>
+    <Transaction>2019/11/19 16:34:41.000.461,C:\Users\LUCAS\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\LUCAS\Desktop\DMX\App\Project1.cbproj</Transaction>
+    <Transaction>2019/11/19 17:35:20.000.868,=C:\Users\LUCAS\Desktop\DMX\App\lampe.lib</Transaction>
+    <Transaction>2019/11/19 17:35:29.000.505,=C:\Users\LUCAS\Desktop\DMX\App\lampes.lib</Transaction>
+    <Transaction>2019/11/19 17:53:08.000.479,=C:\Users\LUCAS\Desktop\DMX\Forms\LAMPE.cpp</Transaction>
+    <Transaction>2019/11/19 17:53:12.000.895,=C:\Users\LUCAS\Desktop\DMX\Forms\LAMPES.cpp</Transaction>
+    <Transaction>2019/11/19 17:54:13.000.016,C:\Users\LUCAS\Desktop\DMX\Forms\LAMPE.cpp=</Transaction>
+    <Transaction>2019/11/19 17:54:20.000.604,C:\Users\LUCAS\Desktop\DMX\Forms\LAMPES.cpp=</Transaction>
+    <Transaction>2019/11/19 17:55:17.000.828,=C:\Users\LUCAS\Desktop\DMX\Forms\LAMPE.cpp</Transaction>
+    <Transaction>2019/11/19 17:55:21.000.883,=C:\Users\LUCAS\Desktop\DMX\Forms\LAMPES.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
